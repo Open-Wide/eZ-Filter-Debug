@@ -13,4 +13,4 @@ You can try the eZ-Filter-Debug bookmarklet simply, by creating a bookmark with 
 
 Then, you can try it on an eZ Publish website with the output debug enabled, [like this one] (http://www.libebus.com/index.php/libebus/mentions-legales).
 
-    javascript:var%20e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('src','https://raw.github.com/Open-Wide/eZ-Filter-Debug/master/ezpublish-filter-debug.js');document.body.appendChild(e);void(0);
+    javascript:var%20e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('src','https://rawgithub.com/Open-Wide/eZ-Filter-Debug/master/ezpublish-filter-debug.js');document.body.appendChild(e);void(0);
